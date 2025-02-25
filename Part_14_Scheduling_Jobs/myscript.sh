@@ -2,4 +2,4 @@
 
 logfile=job_results.log
 
-echo "The script ran at the follwing time: $(date)" > $logfile
+/user/bin/echo "The script ran at the follwing time: $(/user/bin/date)" > $logfile

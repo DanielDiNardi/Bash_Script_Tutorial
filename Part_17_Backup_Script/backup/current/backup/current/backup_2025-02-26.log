@@ -1,0 +1,18 @@
+sending incremental file list
+created directory backup//current
+./
+backup.sh
+backup_2025-02-26.log
+example_1.txt
+example_2.txt
+example_3.txt
+example_4.txt
+example_5.txt
+backup/
+
+sent 308 bytes  received 82 bytes  780.00 bytes/sec
+total size is 701  speedup is 1.80 (DRY RUN)
+sending incremental file list
+created directory backup//current
+./
+backup.sh

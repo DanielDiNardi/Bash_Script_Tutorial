@@ -1,0 +1,18 @@
+sending incremental file list
+./
+backup_2025-02-26.log
+example_1.txt
+example_new.txt
+backup/
+backup/current/
+backup/current/backup.sh
+backup/current/backup_2025-02-26.log
+backup/current/example_1.txt
+backup/current/example_2.txt
+backup/current/example_3.txt
+backup/current/example_4.txt
+backup/current/example_5.txt
+backup/current/backup/
+
+sent 1,979 bytes  received 229 bytes  4,416.00 bytes/sec
+total size is 1,704  speedup is 0.77
